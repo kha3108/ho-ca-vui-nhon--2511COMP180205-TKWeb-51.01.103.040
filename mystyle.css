@@ -117,3 +117,6 @@
     80% {top: 300px;}
     100% {top:400px;}
 }
+body {
+    background-color: blue;
+}
